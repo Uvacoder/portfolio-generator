@@ -1,11 +1,11 @@
-portfolio: Your Name
+portfolio: Bill Lumberg
 
 theme: light
 patternImage: circuit.svg
 
 socialMedia:
   - name: GitHub
-    url: https://github.com/
+    url: https://github.com/uvacoder
     image: github.svg
 
   - name: Twitter
