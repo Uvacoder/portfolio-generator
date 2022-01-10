@@ -9,16 +9,20 @@ socialMedia:
     image: github.svg
 
   - name: Twitter
-    url: https://twitter.com/
+    url: https://twitter.com/AlecCam43544378
     image: twitter.svg
+    
+  - name: LinkedIn
+    url: https://linkedin.com/en/alecbcampbell
+    image: linkedin.svg
 
 projects:
-  - name: About Me
-    url: https://filipesantoscorrea.com/
+  - name: My Links
+    url: https://abclinks.vercel.app/
     image: about-me.svg
 
-  - name: Snake
-    url: https://safi1012.github.io/ResponsiveSnake/
+  - name: GitHub
+    url: https://github.com/uvacoder
     image: responsive-snake.png
 
   - name: Shrink Me
@@ -31,7 +35,7 @@ terms:
   website: https://crafted.link
 
 privacy:
-  name: Your name
-  address: Your address
-  mail: your-mail@address.com
+  name: Richard Kimble
+  address: Virginia
+  mail: freeunioncoder@gmail.com
   phone: Your number e.g. +1-123-456-7890
