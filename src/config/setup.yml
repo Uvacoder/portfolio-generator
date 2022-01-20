@@ -24,6 +24,10 @@ projects:
   - name: GitHub
     url: https://github.com/uvacoder
     image: responsive-snake.png
+    
+  - name: Dribbble
+    url: https://dribbble.com/uvacoder
+    image: dribbble.svg
 
   - name: Shrink Me
     url: https://shrinkme.app
